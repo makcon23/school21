@@ -1,0 +1,4 @@
+Код
+linux day 1
+pwd ls cd mkdir
+
